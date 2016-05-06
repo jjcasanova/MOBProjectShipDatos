@@ -41,5 +41,20 @@
 			<type>2</type>
 			<location>C:/Users/jjcasanova/eclipse/java-mars/eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.10/variants/mega</location>
 		</link>
+		<link>
+			<name>libraries/SoftwareSerial</name>
+			<type>2</type>
+			<location>C:/Users/jjcasanova/eclipse/java-mars/eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.10/libraries/SoftwareSerial</location>
+		</link>
+		<link>
+			<name>libraries/TinyGPSPlus-0.94b</name>
+			<type>2</type>
+			<location>C:/Program Files (x86)/Arduino/libraries/TinyGPSPlus-0.94b</location>
+		</link>
+		<link>
+			<name>libraries/VirtualWire</name>
+			<type>2</type>
+			<location>C:/Program Files (x86)/Arduino/libraries/VirtualWire</location>
+		</link>
 	</linkedResources>
 </projectDescription>
